@@ -1,13 +1,16 @@
 ### Hi, I'm Jimmy Tai 👋
 
-CS & Japanese graduate from St. John's University (Minnesota), now based in Hsinchu, Taiwan.
-I speak 中文 · English · 日本語 (JLPT N1).
+**Information Security Analyst at Yamaha Motor Taiwan**, based in Hsinchu, Taiwan.
+CS & Japanese graduate from St. John's University (Minnesota). I speak 中文 · English · 日本語 (JLPT N1).
 
-- 🔍 Open to roles in **IT / network administration, cybersecurity, cloud**, and Japanese-language work
+- 🔐 Working on **Zero Trust remote access**, **AI governance**, and **incident & vulnerability management**
+- 🌏 Coordinating security projects with group companies in Chinese, English, and Japanese
 - 🌐 [**jimmytai.com**](https://jimmytai.com): my personal site, built from scratch and deployed on Cloudflare Workers
 - 💼 [LinkedIn](https://www.linkedin.com/in/jimmytai96) · ✉️ jimmy97044@gmail.com
 
-**Tech:** Java · Python · C / C# · JavaScript · HTML / CSS · Linux · Unity · Git
+**Security:** Zero Trust / ZTNA · AI governance · Incident response · Vulnerability management · Endpoint security · Firewall
+
+**Code:** Java · Python · C / C# · JavaScript · HTML / CSS · Linux · Unity · Git
 
 #### Selected projects
 
